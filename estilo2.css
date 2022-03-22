@@ -1,0 +1,17 @@
+.contenedor1 {
+    background-color: rgb(15, 19, 226);
+    mask-border-slice: 10px;
+    padding: 5px;
+    margin: 5px;
+}
+
+.contenedor2 {
+    background-color: rgb(15, 19, 226);
+    mask-border-slice: 10px;
+    padding: 5px;
+    margin: 5px;
+}
+
+h2 {
+    color: lawngreen;
+}

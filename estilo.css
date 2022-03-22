@@ -1,0 +1,47 @@
+body {
+    background-color: #ffffff;
+}
+
+h1 {
+    color: black;
+}
+
+.contenedor {
+    background-color: rgb(228, 26, 19);
+    border-radius: 10px; 
+    padding: 5px;
+    margin: 5px;
+    
+}
+
+.contenedor2 {
+    background-color: rgb(228, 26, 19);
+    mask-border-slice: 10px;
+    padding: 5px;
+    margin: 5px;
+}
+
+.contenedor3 {
+    background-color: rgb(228, 26, 19);
+    mask-border-slice: 10px;
+    padding: 5px;
+    margin: 5px;
+}
+
+.contenedor5 {
+    mask-border-slice: 10px;
+    background-color: red;
+    padding: 5px;
+    margin: 5px;
+}
+
+.contenedor4 {
+    mask-border-slice: 10px;
+    background-color: red;
+    padding: 5px;
+    margin: 5px;
+}
+
+input {
+    border-color: blue;
+}
